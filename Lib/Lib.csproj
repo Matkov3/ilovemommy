@@ -10,4 +10,13 @@
     <ProjectReference Include="..\Ilovemommy\Core.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Update="BasePage.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Update="HeaderPage.cs">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+  </ItemGroup>
+
 </Project>

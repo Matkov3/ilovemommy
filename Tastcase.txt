@@ -1,0 +1,5 @@
+1. Open site https://ilovemommy.com.ua/
+2. Change Menu NEW
+3. Change rundom product
+4. Product add to the basket
+5. Buy product
